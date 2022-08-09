@@ -1,0 +1,103 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": false
+    },
+    "profile": {
+        "name": "普通鉴",
+        "email": "putongjian2022@gmail.com",
+        "mobile": "17601049073",
+        "github": "https://github.com/shrike999",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": "前端工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2018.09.01",
+                "2023.06.30"
+            ],
+            "school": "北京理工大学",
+            "major": "工业设计",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [],
+    "skillList": [
+        {
+            "skill_name": "熟悉HTML5，CSS3，JavaScript，Vue全家桶",
+            "skill_desc": "熟悉HTML5、CSS3、JavaScript、ES6、Vue全家桶",
+            "skill_level": null,
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "熟悉Promise、AJAX、Less等前端技术",
+            "skill_level": null,
+            "dataIndex": 1,
+            "skill_desc": "熟悉Promise、AJAX、Less等前端技术"
+        },
+        {
+            "skill_name": "熟练使用C语言，了解python，C++基础",
+            "skill_level": null,
+            "skill_desc": "熟练使用C语言，了解python，C++基础",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "熟悉git操作",
+            "skill_level": null,
+            "skill_desc": "熟悉git操作"
+        },
+        {
+            "skill_name": "熟练使用C语言，了解python，C++基础",
+            "skill_level": null,
+            "skill_desc": "熟练使用Node.js，Express.js框架搭建服务器"
+        },
+        {
+            "skill_name": "熟练使用C语言，了解python，C++基础",
+            "skill_level": null,
+            "skill_desc": "英语CET6，良好的听说读写能力，流畅阅读英语技术文档"
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "后台管理系统",
+            "project_role": "全栈开发",
+            "project_time": "2019.04 - 2020.06",
+            "project_desc": "地址：https://github.com/shrike999/management\n\n基于Vue全家桶+Nodejs+Webpack开发",
+            "project_content": "\n🍈使用Vue.js，element ui组件库实现数据展示与交互功能设计，vue x实现组件间数据共享，vue router实现单页面应用。\n🍈实现用户管理、商品分类管理、权限管理、可视化展示数据等功能模块\n🍈使用Node.js与Express框架搭建服务器，通过REST API接口与前端页面进行数据交互\n🍈Webpack打包、Postman与Thunder client测试接口",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "小米商城静态网站制作",
+            "project_role": "",
+            "project_desc": "地址：https://github.com/shrike999/management\n\n基于HTML5+CSS3开发",
+            "project_content": "\n🍈使用HTML和CSS仿写小米商城\n🍈通过JavaScript实现轮播图"
+        },
+        {
+            "project_name": "CV画笔",
+            "project_role": "",
+            "project_desc": "地址：https://github.com/shrike999/cv-painter/tree/master\n\n基于opencv库，使用c++开发",
+            "project_content": "\n🍈使用“颜色录入”程序，记录想要识别的目标颜色。\n🍈使用inRange函数将转为hsv格式webcam的图像限定为只显示之前录入的\n色彩范围，得到色块的轮廓后，利用边角矩形确定作画的输入点，随后根据确定的点在原输入图像\n上画圆点。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "\n    🌱 自主学习能力较强，能沉下心来写代码、调试代码，有完整项目经验。\n    🌱 设计专业学习经验使我拥有良好的审美，扎实的设计素养以及良好的团队合作习惯。\n    🌱 出于对计算机与设计的共同兴趣，在校期间自学了前端技术。对新技术有浓厚兴趣。\n    🌱 做事认真负责，抗压能力强。\n    "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
